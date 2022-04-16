@@ -18,6 +18,7 @@ prerequisite
 
 steps
 - Clone the service `git clone https://github.com/shrief60/phone-number-categorization.git` 
+- copy `.env.example` to .env file
 - run `composer i`  to get  php packages
 - run `npm  i`
 - run `npm run dev`
