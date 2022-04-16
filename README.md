@@ -11,11 +11,11 @@
 
 prerequisite
 
-- at least php 7.4
-- Composer v1
-
+- PHP^7.3|^8.0
+- Composer version 1.10.25
+- Laravel Framework 8
 
 steps
-- First Clone the service 
+- Clone the service `git clone https://github.com/shrief60/phone-number-categorization.git` 
 - run `composer i`  to get  php packages
 - run  `php artisan serve`
